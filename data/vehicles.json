@@ -1,0 +1,38 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "234324",
+        "image": "https:\/\/www.bmw.com.sg\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": "R15 V3",
+        "type": "Bike",
+        "price": "7000",
+        "image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2020\/08\/yamaha-r15-dark-knight.jpg"
+    },
+    {
+        "name": "MT15 \u2013 V2",
+        "type": "Bike",
+        "price": "525",
+        "image": "https:\/\/dashboard.yamahabd.com\/storage\/products\/variants\/1sWZdeTYmqq85y278oZ2r3kcSVEuIBq0DTZzmh7O.png"
+    },
+    {
+        "name": "Supreme DI 60 RX",
+        "type": "Agricultural Machinery",
+        "price": "98566",
+        "image": "https:\/\/acimotors-bd.com\/assets\/images\/product\/tractor\/supreme-di-60-rx\/di-60-rx-web-2.jpg"
+    },
+    {
+        "name": "Yanmar Combine Harvester AG600GA",
+        "type": "Agricultural Machinery ",
+        "price": "54852",
+        "image": "https:\/\/acimotors-bd.com\/assets\/images\/product\/combine-harvester\/ag600ga.jpg"
+    },
+    {
+        "name": "2025 M3 Sedan",
+        "type": "Car",
+        "price": "145452",
+        "image": "https:\/\/cache.bmwusa.com\/cosy.arox?pov=walkaround&brand=WBBM&vehicle=25TN&client=byoc&paint=P0475&fabric=FX3KX&sa=S01T8%2CS0248%2CS02VF%2CS0302%2CS0316%2CS0319%2CS0322%2CS03M6%2CS03MF%2CS0430%2CS0431%2CS0459%2CS048C%2CS0493%2CS0494%2CS04GQ%2CS04MC%2CS04U0%2CS0534%2CS0544%2CS0552%2CS05AC%2CS05AS%2CS05DN%2CS0688%2CS06AC%2CS06AK%2CS06C4%2CS06DR%2CS06NX%2CS06U3%2CS070A%2CS0760%2CS0775&cut=3&width=1045&angle=40&quality=85&sharp=99&resp=png&bkgnd=transparent"
+    }
+]
